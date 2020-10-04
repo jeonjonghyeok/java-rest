@@ -1,3 +1,3 @@
 # rest-api
 
-swagger를 이용한 res-api 개발
+swagger를 이용한 rest-api 개발
